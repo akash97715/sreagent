@@ -1,0 +1,7 @@
+# Machine-local Claude Code settings
+.claude/settings.local.json
+
+# Runtime output artifacts (regenerated on each run)
+health_report_*.txt
+sre_monitor_output.json
+sre_monitor_stderr.txt
